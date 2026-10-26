@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847210519522",
+    "project_id": "online-shopping-ea3bc",
+    "storage_bucket": "online-shopping-ea3bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847210519522:android:dfb72b1e5fe2d9947637bb",
+        "android_client_info": {
+          "package_name": "com.chandra.onlineshopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWEkfbc_hQpfwm9q8uLIgeDlCfnLLe8vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
